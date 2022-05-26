@@ -1,4 +1,4 @@
-# Polymorphism and CRRP+Variant
+# Polymorphism and CRTP+Variant
 
 
 `Runtime polymorphism` is resolved at runtime by using `vptr` and `vtable`. `vptr` is a pointer and it points `vtable` that contains virtual functions. 
